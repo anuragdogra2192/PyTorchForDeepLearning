@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jovyan/work/mlruns/494575854891505072/2aa01d94943244e0add4a8d999ca58aa/artifacts
+end_time: 1772808349778
+entry_point_name: ''
+experiment_id: '494575854891505072'
+lifecycle_stage: active
+run_id: 2aa01d94943244e0add4a8d999ca58aa
+run_name: intelligent-bee-62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772808229654
+status: 3
+tags: []
+user_id: root

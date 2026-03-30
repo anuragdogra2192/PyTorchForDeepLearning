@@ -1,0 +1,10 @@
+artifact_location: file:///home/jovyan/work/mlruns/494575854891505072/models/m-b23c318807244396a9dd72517d4b57d1/artifacts
+creation_timestamp: 1772808338233
+experiment_id: '494575854891505072'
+last_updated_timestamp: 1772808349633
+model_id: m-b23c318807244396a9dd72517d4b57d1
+model_type: null
+name: cifar10_cnn_model_final
+source_run_id: 2aa01d94943244e0add4a8d999ca58aa
+status: 2
+status_message: null

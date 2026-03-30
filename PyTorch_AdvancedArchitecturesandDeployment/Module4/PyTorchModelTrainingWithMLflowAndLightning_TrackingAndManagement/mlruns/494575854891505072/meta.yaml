@@ -1,0 +1,6 @@
+artifact_location: file:///home/jovyan/work/mlruns/494575854891505072
+creation_time: 1772808161386
+experiment_id: '494575854891505072'
+last_update_time: 1772808161386
+lifecycle_stage: active
+name: CIFAR10_CNN
