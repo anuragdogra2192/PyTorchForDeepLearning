@@ -51,7 +51,7 @@ A hands-on PyTorch learning repository with fundamentals, ecosystem tools, and a
 - [Module 1: Project - Classification And Visual Search](PyTorch_AdvancedArchitecturesandDeployment/Module1/Project_ClassificationAndVisualSearch/)
 - [Module 2: Visualizing And Interpreting Convolutional Neural Networks](PyTorch_AdvancedArchitecturesandDeployment/Module2/VisualizingAndInterpretingConvolutionalNeuralNetworks/)
 - [Module 2: Saliency And Class Activation Map Visualization using PyTorch And ResNet](PyTorch_AdvancedArchitecturesandDeployment/Module2/SaliencyAndClassActivationMapVisualizationusingPyTorchAndResNet/)
-- [Module 2: Stable Diffusion - From Image Classification to Generative Modeling](PyTorch_AdvancedArchitecturesandDeployment/Module2/StableDiffusion_FromImageClassificationtoGenerative Modeling)
+- [Module 2: Stable Diffusion - From Image Classification to Generative Modeling](PyTorch_AdvancedArchitecturesandDeployment/Module2/StableDiffusion_FromImageClassificationtoGenerativeModeling)
 - [Module 2: Project - Fruit Quality Inspection And Generation](PyTorch_AdvancedArchitecturesandDeployment/Module2/Project_FruitQualityInspectionAndGeneration/)
 - [Module 3: Building A Transformer Encoder For Text Classification](PyTorch_AdvancedArchitecturesandDeployment/Module3/BuildingATransformerEncoderForTextClassification/)
 - [Module 3: Self-Attention - Building the Foundation of Transformers](PyTorch_AdvancedArchitecturesandDeployment/Module3/Self-Attention_BuildingtheFoundationofTransformers/)
