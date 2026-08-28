@@ -1,0 +1,92 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Data files and datasets
+*/data/
+*/EMNIST_data/
+*/chest_xray/
+*/plants_dataset/
+*/cifar10/
+*/cifar_100/
+*/flower_data/
+*/corrupted_flower_data/
+*/pytorch_datasets/
+*/oxford3pet_data/
+*/AIvsReal_sampled/
+*/CIFAR10_data/
+*/imdb_data/
+*/AdvancedTrainingOptimizationusingLightning/data/
+*/IntroductiontoLightningandPerformanceProfiling/data/
+
+# Model files
+*.pth
+*.pt
+*.pkl
+*.h5
+*.ckpt
+**/models/
+
+# Pre-trained models
+**/bert_model/
+**/glove_data/
+**/distilbert-local-base/
+**/pretrained_model/
+**/pretrained_resnet18_weights/
+**/fruit_and_vegetable_subset/
+**/fruit_veg_tf_savedmodel/
+**/models--*/
+
+# Archive files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# OS generated files
+Thumbs.db
+.cache/
+.locks/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
